@@ -5,10 +5,10 @@ The dataset contains information about customers, including demographics, financ
 4521 rows × 17 columns.
 
 ## Features
-age: age of the customer.
-employment: occupation or position of the customer.
-marital status: marital status of the customer (married, single, divorced).
-education: level of education achieved by the customer.
+- age: age of the customer.
+- employment: occupation or position of the customer.
+- marital status: marital status of the customer (married, single, divorced).
+- education: level of education achieved by the customer.
 default: indicates whether the customer has a history of defaulting on loans (yes, no).
 balance: total balance of the customer's account.
 housing: indicates whether the customer has a mortgage (yes/no).
